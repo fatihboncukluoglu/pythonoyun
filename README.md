@@ -1,0 +1,2 @@
+# pythonoyun
+ilk denemeler
